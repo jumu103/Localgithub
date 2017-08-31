@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Commit 6"
+echo "Commit 7"
 date +%d.%m.%Y";  Local Time: "%H:%Mh 
